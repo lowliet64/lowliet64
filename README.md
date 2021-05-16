@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on SETHAS
 - 🌱 I’m currently learning React and NextJS
-- 🤔 I’m looking for help with Node
+- 🤔 I’m looking for help with Node,Docker
 - 💬 Ask me about HTML,CSS,Javascript,Python,Django
 - ⚡ Fun fact: i love cats so much <3 
 
