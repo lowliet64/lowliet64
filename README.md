@@ -5,6 +5,7 @@
 - 💬 Ask me about HTML,CSS,Javascript,Python,Django, little bit of React and Node
 - ⚡ Fun fact: i love cats so much <3 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lowliet64&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
