@@ -1,8 +1,8 @@
 ### Hi there , I'm Carlos 👋
 
-- 🔭 I’m currently working on MAPIA
-- 🌱 I’m currently learning Python,Java,DynamoDB, AWS and Flutter.
-- 💬 Ask me about HTML,CSS,Javascript,Python,Django, little bit of React and Node
+- 🔭 I’m currently working on VILA
+- 🌱 I’m currently learning NEST JS.
+- 💬 Ask me about HTML,CSS,Javascript,Python,Django,Node and Express
 - ⚡ Fun fact: i love cats so much <3 
 
 
