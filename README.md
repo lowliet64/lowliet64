@@ -1,8 +1,8 @@
 ### Hi there , I'm Carlos 👋
 
 - 🔭 I’m currently working on VILA
-- 🌱 I’m currently learning NEST JS.
-- 💬 Ask me about HTML,CSS,Javascript,Python,Django,Node and Express
+- 🌱 I’m currently learning NEST Js, gRPC.
+- 💬 Ask me about Javascript,Python,Django and Express
 - ⚡ Fun fact: i love cats so much <3 
 
 
