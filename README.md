@@ -1,7 +1,7 @@
 ### Hi there , I'm Carlos Silva 👋
 
 
-I am a backend developer with more than 3 years of experience, passionate about innovation and testing new things in the technology area.
+I am a backend developer , passionate about innovation and automation of process.
  
 
 always learning something new
