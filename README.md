@@ -1,7 +1,7 @@
 ### Hi there , I'm Carlos Silva 👋
 
 
-I am a backend developer , passionate about innovation and automation of process.
+I am a backend developer , passionate about innovation and process automation.
  
 
 always learning something new
