@@ -1,9 +1,10 @@
 ### Hi there , I'm Carlos Silva 👋
 
-- 🔭 I’m currently working on VILA
-- 🌱 I’m currently learning Java with Spring Framework.
-- 💬 Ask me about Javascript,Python,Django and Express
-- ⚡ Fun fact: i love horror games
+
+I am a backend developer with more than 3 years of experience, passionate about innovation and testing new things in the technology area.
+ 
+
+always learning something new
 
 
 ### Main technologies 👩🏻‍💻
