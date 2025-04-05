@@ -15,7 +15,7 @@ always learning something new
  <hr/>
 
 ### Social 📲
-[![Site](https://img.shields.io/badge/Site-Visit-blue)](https://lowliet64.github.io/)
+![Site](https://img.shields.io/badge/Site-Visit-blue?style=for-the-badge&logo=github&logoColor=white)
 
 <a href="https://www.linkedin.com/in/carlos-silva-84532b202/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://medium.com/@kaduifrn" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
